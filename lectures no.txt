@@ -1,0 +1,54 @@
+1- Intro to Software Engineering
+2- Generic process of software engr, layered tech
+3- SE ethics
+4- software process, generic activtites
+5- SDLC phases, waterfall, V-model
+6- Incremental and RAD model
+7- Iterative and Spiral model
+8- prototype model and component base development
+9- Adv and Disadvantages of CBD, formal methods model
+10- Adv and Disadvantages of formals, AOSD (aspect oriented)
+11- Unified Software development model
+12- Agile methods, agile manifesto, agile process
+13- plan development vs agile dev and Extreme Programming (XP)
+14- XP, Scrum
+15- Adv and Disadvantages of scrum, crystal model, feature driven
+development (FDD) and Adaptive software development(ASD)
+16- Requirement Eng, functional and non-functional req
+17- domain req, RE tasks(inception, elicitaion)
+18- RE tasks(elaboration, negotiation, validation), Req Management
+19- Design, Analysis modeling, design process
+20- FURPS, design principles and concepts(abstraction, architeture, concerns)
+21- Modularity, cohesion and coupling, information hiding
+22- System Modeling, existing models, system perspectives, uml diagrams, graphical models
+context models, system boundaries, interaction models
+23- Use-case diagrams, sequence diagrams
+24- Structural models, class diagrams, behavioral models, data-driven models, event 
+driven models, state machine models
+25- software architecture, architercual design, abstraction, why architecture, 
+architectural views
+26- architectural styles, data-centric, client server, data flow, call and return
+27- object oriented, layered, architecture reuse, patterns, design
+28- software testing, verification & validation, types of testing, testing strategies, issues
+29- strategic approach, testing strategy, unit, integeration testing
+30- validation, alpha/beta, system testing, debugging
+31- Testability, test case, exhaustive, selective testing, internal and external views
+32- black box, white box testing, cyclomatic complexity, control flow graph, test case
+33- basis path, control structure testing, black box testing, equivalence partition, boundary values
+anlaysis, comparison testing
+34- Software project management, distinction, management activities, The four P's, people management
+factors, stakeholders
+35- Team leader, software teams, organizational paradigms, avoid team toxicity, agile teams
+36- Product, problem decomposition, process, process decomposition, project, common sense activites
+W5HH Principle
+37- Software Quality, Quality, effective software process, useful product, adding value, Garvin's
+Quality Dimensions
+38- Software Quality dilemaa, good enough software, cost of quality, achieving software quality
+39- Software metrics, measures, metrics and indicators, measurement principles, process, Goal oriented
+software measurement, metric attributes
+40- product metrics, function based metrics, function points, process measurement, project metrics
+41- software project planning, project planning task set, Estimation, Project Estimation
+Estimation Techniques, Estimation Accuracy, approaches to sizing problem, Estimation with use cases,
+cocomo-ii, make buy decision, computing expected cost
+42- software risks, risk categorization, reactive vs proactive risk strategies, steps for risk 
+management, risk identification, projection, mitigation, monitoring and management.
